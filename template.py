@@ -38,7 +38,8 @@ def create_file_structure():
         "requirements.txt",
         "setup.py",
         "research/trials.ipynb",
-        "templates/index.html"
+        "templates/index.html",
+        ""
     ]
 
     for filepath in list_of_files:
